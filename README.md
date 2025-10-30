@@ -176,8 +176,8 @@ MIT License - See [LICENSE](LICENSE) for details.
 
 ## 📧 Contact
 
-- GitHub Issues: [Project Issues](https://github.com/yourusername/glinet-pentesting-platform/issues)
-- 2600 Meetings: First Friday, 30th Street Station, Philadelphia
+- GitHub Issues: [Project Issues](https://github.com/ButterflyRSI/glinet-pentesting-platform/issues)
+
 
 ---
 
