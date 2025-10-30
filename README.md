@@ -2,7 +2,6 @@
 
 A complete, affordable WiFi pentesting platform using GL.iNet router, automated capture scripts, real-time web dashboard, and GPU-accelerated password cracking.
 
-![Platform Overview](docs/images/dashboard.png)
 
 ## 🎯 Features
 
